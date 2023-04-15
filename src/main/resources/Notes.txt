@@ -1,0 +1,6 @@
+What I need to take note before build the employee management system using SOAP web service
+1. XSD - Schema
+2. XML - Request and Response
+3. WSDL - Endpoint
+
+namespace - http://sparktechub.com/hrms
