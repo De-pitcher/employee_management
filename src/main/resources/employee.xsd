@@ -1,6 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
 <schema xmlns="http://www.w3.org/2001/XMLSchema"
-        targetNamespace="http://sparktechub.com/hrms"
-        xmlns:tns="http://sparktechub.com/hrms"
+        targetNamespace="http://sparkz.com/hrms"
+        xmlns:tns="http://sparkz.com/hrms"
         elementFormDefault="qualified">
     <element name="GetEmployeeRequest" type="tns:GetEmployeeRequest"/>
     <complexType name="GetEmployeeRequest">
